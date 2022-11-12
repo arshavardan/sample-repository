@@ -1,2 +1,3 @@
 # sample-repository
-sample readme file  
+this is a sample repository
+we have edited the file
